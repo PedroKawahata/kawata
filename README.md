@@ -1,5 +1,5 @@
 # kawata
-## Bem-vindo(a) ao perfil do PedroKawahata 😁
+## Welcome to PedroKawahata's profile 😁
 
  <div>
    <a href="https://github.com/PedroKawahata">
